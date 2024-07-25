@@ -1,4 +1,4 @@
-# vCard - Personal portfolio
+# Personal portfolio
 
 ## Run this website
 
